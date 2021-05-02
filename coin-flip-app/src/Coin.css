@@ -1,0 +1,6 @@
+.Coin img {
+  width: 200px;
+  height: 200px;
+  transform: rotateY(-360deg);
+  transition: transform 1s ease;
+}
